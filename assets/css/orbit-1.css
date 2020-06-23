@@ -312,6 +312,11 @@ p {
   color: #fb866a;
 }
 
+.marge{
+  margin-right: 5px;
+}
+
+
 @media (max-width: 767.98px) {
   .sidebar-wrapper {
     position: static;
